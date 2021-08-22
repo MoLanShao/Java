@@ -1,3 +1,4 @@
+package yeeku;
 /**
  * Description: 利嫋��<a href="http://www.crazyit.org">決髄Java選男</a><br>
  * Copyright (C), 2001-2020, Yeeku.H.Lee<br>
